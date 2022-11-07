@@ -12,3 +12,4 @@ pip install cvlib
 Numpy
 pip install numpy
 
+For a better result please use png files
